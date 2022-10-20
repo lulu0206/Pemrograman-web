@@ -1,0 +1,31 @@
+*{
+    background-color: cornflowerblue;
+    font-family:serif;
+    color: white; 
+}
+h1{
+    color: white;
+}
+body{
+    font-family: sans-serif;
+   
+}
+div{
+    background-color: cornflowerblue;
+}
+
+section{
+    background-color:cadetblue;
+    width: max-content;
+    height: max-content;
+
+}
+h2{
+    background-color:cadetblue;
+    color: antiquewhite;
+    width: max-content;
+    height: fit-content;
+}
+td{
+    background-color: cadetblue;
+}
